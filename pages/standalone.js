@@ -35,9 +35,9 @@ const LandingPage = () => (
       <ContainerFlex align='flex-start' margin='1em 0 0'>
         <span>Follow:{' '}</span>
         <SocialFollow
-          facebookLink='https://www.facebook.com/tomorroworldcom/'
-          twitterName='tomsoderlund'
-          instagramName='tomsoderlund'
+          facebookLink='https://vsco.co/inkrealm/gallery'
+          twitterName='inkrealm'
+          instagramName='inkrealm'
         />
       </ContainerFlex>
     </Headline>
@@ -55,7 +55,7 @@ const LandingPage = () => (
     <Pricing />
 
     <Video
-      src='https://www.youtube.com/embed/UjtVVsz-mMg'
+      src='https://www.youtube.com/watch?v=dPenxSzpNDw'
       controls={false}
     />
 
